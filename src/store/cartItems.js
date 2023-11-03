@@ -27,5 +27,5 @@ const cartItems = [
     img: 'https://images2.imgbox.com/2e/7c/yFsJ4Zkb_o.png',
     amount: 1,
   },
-];
-export default cartItems;
+]
+export default cartItems
